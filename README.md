@@ -10,5 +10,6 @@ css
 js
 
 ## Link to deployed site
+https://dawsonf18.github.io/password-generator/
 
 
